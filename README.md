@@ -1,4 +1,8 @@
 # Formulas.py
+#python program which contains functions, each of
+which performs some intermediate task in the overall computation. 
+#total of 4 functions that compute volume and surface area of certain 3-dimensional geometric figures
+
 import math 
 
 #sphere_volume(r) 
